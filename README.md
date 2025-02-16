@@ -11,9 +11,9 @@ Hello, I'm a passionate self-taught blockchain developer and software engineer w
 </p>
 
 ### My territory
-- ✍ Fᴏᴄᴜꜱɪɴɢ ᴏɴ Fᴜʟʟꜱᴛᴀᴄᴋ ᴀɴᴅ Wᴇʙ3 (Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ) Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
-- 🌱 Bᴜɪʟᴛ ꜱᴇᴠᴇʀᴀʟ ꜱɪɢɴɪғɪᴄᴀɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ ʙᴀꜱᴇᴅ ᴏɴ Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ ɴᴇᴛᴡᴏʀᴋ. 
-- 💼 Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ AI Aɢᴇɴᴛꜱ ᴏɴ Sᴏʟᴀɴᴀ, Aʟꜱᴏ ᴡᴏʀᴋɪɴɢ ᴏɴ Bᴜɪʟᴅɪɴɢ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ, Rᴀғғʟᴇ, Aᴜᴄᴛɪᴏɴ Tᴏᴏʟꜱ ᴏɴ Bɪᴛᴄᴏɪɴ.
+- 🌐 Robust Backend System Development in Rust, Python, Express.JS
+- 🤖 Solana and Eclipse Trading Bot Development.
+- ✍ Solana Smart Contract Development
 
 
 ### Stats
