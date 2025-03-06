@@ -14,8 +14,3 @@ Hello, I'm a passionate self-taught blockchain developer and software engineer w
 - 🌐 Robust Backend System Development in Rust, Python, Express.JS
 - 🤖 Solana and Eclipse Trading Bot Development.
 - ✍ Solana Smart Contract Development
-
-
-### Stats
-
-![bew stats](https://github-readme-stats.vercel.app/api?username=SolMatts&show=prs_merged&show_icons=true&theme=transparent)
