@@ -12,5 +12,5 @@ Experienced Full Stack and Solana Web3 Developer
 
 ### My territory
 - 🌐 Robust Backend System Development in Rust, Python, Express.JS
-- 🤖 Solana and Eclipse Trading Bot Development.
-- ✍ Solana Smart Contract Development
+- 🤖 Skilled in Frontend Building in React, Next.JS + TailWindCSS
+- ✍ Solana Web3 Integration
