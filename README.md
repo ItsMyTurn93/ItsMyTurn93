@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm a passionate self-taught blockchain developer and software engineer with a global perspective. I focus on crafting seamless experiences, robust architectures, and high-quality code in every project I build.
+Experienced Full Stack and Solana Web3 Developer
 
 ### Programming Lang
 <p>
